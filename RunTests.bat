@@ -1,0 +1,12 @@
+raytracer.exe Tests/testAmbient.txt
+raytracer.exe Tests/testBackground.txt
+raytracer.exe Tests/testBehind.txt
+raytracer.exe Tests/testDiffuse.txt
+raytracer.exe Tests/testIllum.txt
+raytracer.exe Tests/testImgPlane.txt
+raytracer.exe Tests/testIntersection.txt
+raytracer.exe Tests/testParsing.txt
+raytracer.exe Tests/testReflection.txt
+raytracer.exe Tests/testSample.txt
+raytracer.exe Tests/testShadow.txt
+raytracer.exe Tests/testSpecular.txt
